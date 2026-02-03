@@ -38,7 +38,7 @@ This project involves:
 
 Everything is for Free!
 - **[Datasets](datasets):** Access to the project dataset (csv files).
-- **[Notion Project Steps]([https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4](https://www.notion.so/SQL-Data-Warehouse-Project-2e5d7f429f0680c4b79ae0349fec0ece)):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps](https://www.notion.so/SQL-Data-Warehouse-Project-2e5d7f429f0680c4b79ae0349fec0ece?source=copy_link):** Access to All Project Phases and Tasks.
 
 ---
 ## License
